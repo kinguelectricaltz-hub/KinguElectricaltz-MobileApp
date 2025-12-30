@@ -4,8 +4,8 @@
   "description": "Mobile app for Kingu Electrical Company Ltd - Electrical Engineering Experts in Tanzania",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#1a5632",
-  "theme_color": "#1a5632",
+  "background_color": "#1a563c",
+  "theme_color": "#e00f14",
   "orientation": "portrait",
   "icons": [
     {
@@ -50,7 +50,11 @@
       "type": "image/png"
     }
   ],
-  "categories": ["business", "utilities"],
+  "categories": [
+    "business",
+    "utilities"
+  ],
   "lang": "en",
-  "dir": "ltr"
+  "dir": "ltr",
+  "id": "23022002"
 }
